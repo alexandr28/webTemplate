@@ -1,0 +1,15 @@
+/*
+  This boilerplate is based in ITCSS and SMACSS
+*/
+/* line 1, src/scss/base/base.scss */
+*,
+*::before,
+*:after {
+  box-sizing: border-box;
+}
+
+/* line 7, src/scss/base/base.scss */
+body {
+  margin: 0;
+  font-family: "sans-serif";
+}
