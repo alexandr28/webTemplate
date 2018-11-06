@@ -2,13 +2,13 @@
   "name": "template",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gulpfile.babel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPL-2.0",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "babel-core": "^6.26.3",
